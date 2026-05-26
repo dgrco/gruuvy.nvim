@@ -1,37 +1,36 @@
 -- gruuvy.nvim
--- A minimal, clean dark colorscheme with gruvbox vibes and pastel accents.
 
 local M = {}
 
 M.palette = {
   -- Base
-  bg0      = "#262626",  -- main background
-  bg1      = "#303030",  -- cursor line, subtle bg
-  bg2      = "#3a3a3a",  -- selection, visual
-  bg3      = "#4e4e4e",  -- line numbers, borders
-  bg4      = "#626262",  -- comments
-  fg0      = "#f5eedc",  -- bright foreground
-  fg1      = "#e8dcc8",  -- main foreground
-  fg2      = "#c8bfaa",  -- dimmed foreground
-  fg3      = "#a89f8c",  -- very dimmed
+  bg0      = "#262626",
+  bg1      = "#303030",
+  bg2      = "#3a3a3a",
+  bg3      = "#4e4e4e",
+  bg4      = "#626262",
+  fg0      = "#f5eedc",
+  fg1      = "#e8dcc8",
+  fg2      = "#c8bfaa",
+  fg3      = "#a89f8c",
 
   -- Pastel accents
-  red      = "#e89090",  -- pastel red
-  green    = "#a8c8a0",  -- pastel sage green
-  yellow   = "#e8d09a",  -- pastel warm yellow
-  blue     = "#9ab8d8",  -- pastel steel blue
-  purple   = "#c4b5e3",  -- pastel lavender
-  aqua     = "#98c8c0",  -- pastel teal
-  orange   = "#e0b890",  -- pastel orange (keywords)
+  red      = "#e45858",
+  green    = "#7abf69",
+  yellow   = "#e2be69",
+  blue     = "#6e9ecf",
+  purple   = "#9d81d5",
+  aqua     = "#5cbcbc",
+  orange   = "#e2aa69",
 
   -- Bright variants
-  bred     = "#f0b8b8",
-  bgreen   = "#b8d8b0",
-  byellow  = "#f0dca8",
-  bblue    = "#aacce8",
-  bpurple  = "#c8b8e8",
-  baqua    = "#a8d8d0",
-  borange  = "#ecc8a0",
+  bred     = "#ea7b7b",
+  bgreen   = "#93cb86",
+  byellow  = "#e9cd8b",
+  bblue    = "#8cb2d9",
+  bpurple  = "#b59fdf",
+  baqua    = "#79c8c8",
+  borange  = "#e9bd8b",
 
   -- Semantic
   none     = "NONE",

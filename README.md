@@ -1,7 +1,7 @@
 # gruuvy.nvim
 
-A minimal, clean Neovim colorscheme with gruvbox vibes and gentle pastel accents.
-Dark background, warm foreground, muted but readable.
+A minimal, clean Neovim colorscheme.
+Dark background, warm foreground.
 
 ## Installation
 

@@ -14,7 +14,7 @@ cursor = "#e0b890"
 
 [colors.vi_mode_cursor]
 text   = "#262626"
-cursor = "#c4b5e3"
+cursor = "#e9cd8b"
 
 [colors.selection]
 text       = "#f5eedc"
@@ -42,20 +42,20 @@ background = "#e0b890"
 
 [colors.normal]
 black   = "#303030"
-red     = "#e88282"
-green   = "#a8c8a0"
-yellow  = "#e8d09a"
-blue    = "#9ab8d8"
-magenta = "#c4b5e3"
-cyan    = "#98c8c0"
+red     = "#e45858"
+green   = "#7abf69"
+yellow  = "#e2be69"
+blue    = "#6e9ecf"
+magenta = "#9d81d5"
+cyan    = "#5cbcbc"
 white   = "#e8dcc8"
 
 [colors.bright]
 black   = "#626262"
-red     = "#f09898"
-green   = "#b8d8b0"
-yellow  = "#f0dca8"
-blue    = "#aacce8"
-magenta = "#d0c4ec"
-cyan    = "#a8d8d0"
+red     = "#ea7b7b"
+green   = "#93cb86"
+yellow  = "#e9cd8b"
+blue    = "#8cb2d9"
+magenta = "#b59fdf"
+cyan    = "#79c8c8"
 white   = "#f5eedc"
