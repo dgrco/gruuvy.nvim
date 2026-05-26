@@ -16,7 +16,7 @@ M.palette = {
   fg3      = "#a89f8c",  -- very dimmed
 
   -- Pastel accents
-  red      = "#e88282",  -- pastel rose
+  red      = "#ff746c",  -- pastel red
   green    = "#a8c8a0",  -- pastel sage green
   yellow   = "#e8d09a",  -- pastel warm yellow
   blue     = "#9ab8d8",  -- pastel steel blue
