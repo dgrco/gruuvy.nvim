@@ -18,20 +18,20 @@ selection-foreground    = #f5eedc
 
 # ANSI palette — Normal (0-7)
 palette = 0=#303030
-palette = 1=#e8a0a0
+palette = 1=#e88282
 palette = 2=#a8c8a0
 palette = 3=#e8d09a
 palette = 4=#9ab8d8
-palette = 5=#b8a8d8
+palette = 5=#c4b5e3
 palette = 6=#98c8c0
 palette = 7=#e8dcc8
 
 # ANSI palette — Bright (8-15)
 palette = 8=#626262
-palette = 9=#f0b8b8
+palette = 9=#f09898
 palette = 10=#b8d8b0
 palette = 11=#f0dca8
 palette = 12=#aacce8
-palette = 13=#c8b8e8
+palette = 13=#d0c4ec
 palette = 14=#a8d8d0
 palette = 15=#f5eedc
