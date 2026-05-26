@@ -15,7 +15,7 @@ M.palette = {
   fg3      = "#a89f8c",
 
   -- Pastel accents
-  red      = "#e45858",
+  red      = "#e86868",
   green    = "#7abf69",
   yellow   = "#e2be69",
   blue     = "#6e9ecf",
