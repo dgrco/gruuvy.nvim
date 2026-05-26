@@ -1,0 +1,61 @@
+# gruuvy.toml — Alacritty color theme
+# Import into your alacritty.toml with:
+#   [general]
+#   import = ["~/.config/alacritty/gruuvy.toml"]
+
+[colors.primary]
+background = "#262626"
+foreground = "#e8dcc8"
+bright_foreground = "#f5eedc"
+
+[colors.cursor]
+text   = "#262626"
+cursor = "#e0b890"
+
+[colors.vi_mode_cursor]
+text   = "#262626"
+cursor = "#b8a8d8"
+
+[colors.selection]
+text       = "#f5eedc"
+background = "#4e4e4e"
+
+[colors.search.matches]
+foreground = "#262626"
+background = "#e8d09a"
+
+[colors.search.focused_match]
+foreground = "#262626"
+background = "#e0b890"
+
+[colors.footer_bar]
+background = "#303030"
+foreground = "#e8dcc8"
+
+[colors.hints.start]
+foreground = "#262626"
+background = "#e8d09a"
+
+[colors.hints.end]
+foreground = "#262626"
+background = "#e0b890"
+
+[colors.normal]
+black   = "#303030"
+red     = "#e8a0a0"
+green   = "#a8c8a0"
+yellow  = "#e8d09a"
+blue    = "#9ab8d8"
+magenta = "#b8a8d8"
+cyan    = "#98c8c0"
+white   = "#e8dcc8"
+
+[colors.bright]
+black   = "#626262"
+red     = "#f0b8b8"
+green   = "#b8d8b0"
+yellow  = "#f0dca8"
+blue    = "#aacce8"
+magenta = "#c8b8e8"
+cyan    = "#a8d8d0"
+white   = "#f5eedc"
