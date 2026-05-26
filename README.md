@@ -3,22 +3,6 @@
 A minimal, clean Neovim colorscheme with gruvbox vibes and gentle pastel accents.
 Dark background, warm foreground, muted but readable.
 
-## Palette
-
-| Role        | Color     | Hex       |
-|-------------|-----------|-----------|
-| Background  | dark grey | `#262626` |
-| Foreground  | warm cream| `#e8dcc8` |
-| Keywords    | pastel orange | `#e0b890` |
-| Functions   | pastel sage | `#a8c8a0` |
-| Types       | pastel blue | `#9ab8d8` |
-| Strings     | pastel sage | `#a8c8a0` |
-| Numbers     | pastel lavender | `#b8a8d8` |
-| Preprocessor| pastel teal | `#98c8c0` |
-| Comments    | muted grey | `#626262` |
-| Errors      | pastel rose | `#e8a0a0` |
-| Warnings    | pastel yellow | `#e8d09a` |
-
 ## Installation
 
 ### lazy.nvim
