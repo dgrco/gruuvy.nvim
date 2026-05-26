@@ -221,7 +221,7 @@ function M.setup(opts)
   hi("@function.method",            { fg = p.fg1 })
   hi("@function.method.call",       { fg = p.fg1 })
 
-  hi("@constructor",                { fg = p.yellow })
+  hi("@constructor",                { fg = p.fg1 })
   hi("@operator",                   { fg = p.fg1 })
 
   hi("@keyword",                    { fg = p.red })
