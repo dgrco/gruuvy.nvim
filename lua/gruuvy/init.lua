@@ -19,7 +19,7 @@ M.palette = {
   green    = "#7abf69",
   yellow   = "#e2be69",
   blue     = "#6e9ecf",
-  purple   = "#9d81d5",
+  purple   = "#aa8edb",
   aqua     = "#5cbcbc",
   orange   = "#e2aa69",
 
